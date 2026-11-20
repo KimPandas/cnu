@@ -1,5 +1,9 @@
 # AI 와 함께하는 Python 데이터 분석 첫걸음
 
+> **강사:** 김판다  
+> **주최 / 운영:** 전남대학교 이차전지특성화대학사업단 / SEN Lab
+
+
 ## 📚 데이터 분석 입문
 
 - [데이터 분석 입문](https://github.com/KimPandas/ok/blob/main/md/intro.md)
