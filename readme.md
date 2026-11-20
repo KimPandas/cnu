@@ -14,10 +14,19 @@
 
 ---
 
-## 📚 판다스 라이브러리로 빅데이터 다루기 체험
+## 📚 파이썬으로 빅데이터 다루기 체험
 
 
-* **[실습 자료 링크](https://github.com/KimPandas/ss/blob/main/ipynb/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98.ipynb)** 👉 [연습](https://colab.research.google.com/github/KimPandas/ss/blob/main/ex/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98(%EC%97%B0%EC%8A%B5).ipynb)
+* **[파이썬으로 빅데이터 다루기](https://github.com/KimPandas/ss/blob/main/ipynb/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98.ipynb)**
+* 🔗 [실습 자료 링크](https://colab.research.google.com/github/KimPandas/ss/blob/main/ex/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98(%EC%97%B0%EC%8A%B5).ipynb)
+
+
+
+---
+## 📊 시각화
+
+* **[파이썬 시각화](https://github.com/KimPandas/ss/blob/main/ipynb/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)**
+* 🔗 [실습 자료 링크](https://colab.research.google.com/github/KimPandas/ss/blob/main/ipynb/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
 
 
 ---
@@ -29,12 +38,6 @@
 * [해결 방법](https://github.com/KimPandas/ok/blob/main/md/sol1.md)
   
 * [공식 문서 활용 방법](https://github.com/KimPandas/ok/blob/main/md/doc1.md)
-
-
----
-## 📊 시각화
-
-* **[파이썬 시각화](https://github.com/KimPandas/ss/blob/main/ipynb/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)** 🔗 [코랩 링크](https://colab.research.google.com/github/KimPandas/ss/blob/main/ipynb/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
 
 ---
 
