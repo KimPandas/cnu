@@ -49,3 +49,28 @@
 * **[빅데이터 다루기(증권사 데이터)](https://github.com/KimPandas/ss/blob/main/ipynb/%EC%A6%9D%EA%B6%8C%EC%82%AC_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%9E%94%EA%B3%A0_%EB%B6%84%EC%84%9D.ipynb)** 🔗 [코랩 링크](https://colab.research.google.com/github/KimPandas/ss/blob/main/ipynb/%EC%A6%9D%EA%B6%8C%EC%82%AC_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%9E%94%EA%B3%A0_%EB%B6%84%EC%84%9D.ipynb)
 * **[타이타닉 EDA](https://github.com/KimPandas/ss/blob/main/ipynb/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89_EDA.ipynb)** 🔗 [코랩 링크](https://colab.research.google.com/github/KimPandas/ss/blob/main/ipynb/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89_EDA.ipynb)
 
+---
+
+## 📊 과제
+
+### 1. 제출 대상
+
+「생성형 AI와 함께하는 Python 실무활용특강」 참여 학생
+
+### 2. 과제 안내
+#### ① [참고용] 과제 예시
+- 분석 흐름을 참고할 수 있는 샘플 자료입니다. (제출 불필요)
+- [참고용 분석 과제](https://github.com/KimPandas/cnu/blob/main/files/ipynb/cheme_train.ipynb) 🔗 [실습 자료 링크](https://colab.research.google.com/github/KimPandas/cnu/blob/main/files/ipynb/cheme_train(%EC%97%B0%EC%8A%B5).ipynb)
+
+#### ② [필수] 실제 제출 과제
+- 특강에서 배운 내용을 바탕으로 직접 수행한 분석 결과물을 제출해 주세요.
+- **마지막날 공개됩니다.**
+
+
+### 3. 제출 링크
+
+https://battery.jnu.ac.kr/battery/20427/subview.do
+
+### 4. 제출 안내
+
+위 링크에 접속하여 안내에 따라 필요한 자료 업로드 및 제출
