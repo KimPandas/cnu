@@ -30,7 +30,14 @@
 
 * 🔗 [실습 자료 링크](https://colab.research.google.com/github/KimPandas/ss/blob/main/ex/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98(%EC%97%B0%EC%8A%B5).ipynb)
 
+---
+## 📚 기초 파이썬
 
+- [기초 파이썬 강의 링크](https://inf.run/xRubq)
+
+- 전액 쿠폰으로 무료로 등록 가능
+
+<img src=https://i.postimg.cc/Sj03MPPF/2k8z-B.jpg, width=600>
 
 ---
 ## 📊 시각화
