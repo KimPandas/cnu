@@ -2,7 +2,7 @@
 
 
 
-<img src=https://i.postimg.cc/SxqJfv6G/aiilleo-335.jpg, width=600>
+<img src=https://i.postimg.cc/SxqJfv6G/aiilleo-335.jpg, width=300>
 
 
 
