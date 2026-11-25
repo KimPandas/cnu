@@ -2,7 +2,7 @@
 
 
 
-<img src=https://i.postimg.cc/SxqJfv6G/aiilleo-335.jpg, width=300>
+<img src=https://i.postimg.cc/SxqJfv6G/aiilleo-335.jpg, width=600>
 
 
 
@@ -37,7 +37,7 @@
 
 - 전액 쿠폰으로 무료로 등록 가능
 
-<img src=https://i.postimg.cc/Sj03MPPF/2k8z-B.jpg, width=600>
+<img src=https://i.postimg.cc/Sj03MPPF/2k8z-B.jpg, width=300>
 
 ---
 ## 📊 시각화
