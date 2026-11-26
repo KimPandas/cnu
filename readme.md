@@ -55,15 +55,13 @@
 
 ## 📊 문제 해결 방법
 
-* 코드 실행
-  * [링크](https://github.com/KimPandas/ok/blob/main/md/mre1.md)
+* 코드 실행 🔗 [링크](https://github.com/KimPandas/ok/blob/main/md/mre1.md)
 
 * AI에게 질문
   * [문제 확인](https://github.com/KimPandas/ok/blob/main/md/question.md)
   * [해결 방법](https://github.com/KimPandas/ok/blob/main/md/sol1.md)
   
-* 공식 문서 활용
-  * [링크](https://github.com/KimPandas/ok/blob/main/md/doc1.md)
+* 공식 문서 활용 🔗 [링크](https://github.com/KimPandas/ok/blob/main/md/doc1.md)
 
 ---
 
