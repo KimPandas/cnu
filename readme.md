@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 문제 해결 방법 (with AI)
+## 📊 문제 해결 방법
 
 * 코드 실행
   * [링크](https://github.com/KimPandas/ok/blob/main/md/mre1.md)
