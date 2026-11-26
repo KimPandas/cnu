@@ -33,11 +33,15 @@
 ---
 ## 📚 기초 파이썬
 
-- [기초 파이썬 강의 링크](https://inf.run/xRubq)
+[기초 파이썬 강의 수강 신청 안내]
 
-- 전액 쿠폰으로 무료로 등록 가능
+- 강의 링크: [기초 파이썬 강의 바로가기](https://inf.run/xRubq)
+  
+- 수강 혜택: 전액 지원 쿠폰을 통해 무료로 등록 가능합니다.
 
-<img src=https://i.postimg.cc/Sj03MPPF/2k8z-B.jpg, width=300>
+- 모바일 신청: 스마트폰으로 등록하실 분들은 아래 QR코드를 스캔해 주세요.
+
+<img src=https://i.postimg.cc/Sj03MPPF/2k8z-B.jpg, width=200>
 
 ---
 ## 📊 시각화
